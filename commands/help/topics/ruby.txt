@@ -12,6 +12,9 @@ Cheatsheet/Reference:
 Learn to Program with Ruby
 <https://pine.fm/LearnToProgram/>
 
+Free book/Paid course: Learn Ruby on Rails (Rails 5)
+<https://www.railstutorial.org/book>
+
 Free (Language Transition): Ruby From Other Languages
 <https://www.ruby-lang.org/en/documentation/ruby-from-other-languages/>
 
